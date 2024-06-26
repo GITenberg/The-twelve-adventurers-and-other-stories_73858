@@ -1,0 +1,32 @@
+_repo: The-twelve-adventurers-and-other-stories_73858
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brontë, Charlotte
+    aliases:
+    - Bell, Currer
+    - Bronte, Charlotte
+    - Charlotte Brontë
+    birthdate: 1816
+    deathdate: 1855
+    gutenberg_agent_id: '408'
+    url: http://www.gutenberg.org/2009/agents/408
+    wikipedia: https://en.wikipedia.org/wiki/Charlotte_Brontë
+description: ''
+gutenberg_issued: '2024-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73858'
+language: en
+pgterms:marc905: 20240128191248bront
+pgterms:marc906: '1925'
+pgterms:marc907: GB
+production_note: Lauren Prichard
+publication_note: '  $aLondon :$bHodder and Stoughton, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The twelve adventurers and other stories
+url: http://www.gutenberg.org/ebooks/73858
